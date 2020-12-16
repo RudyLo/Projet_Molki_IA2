@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Projet_Moli_IA2/Logs
+Library
+Temp
